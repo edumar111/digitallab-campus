@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #204f6b;
+}
+.HomeLayout {
+  display: flex;
+  margin: 0 auto;
+  min-height: 100vh;
+}
